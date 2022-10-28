@@ -2,7 +2,7 @@
 layout: post 
 title: "Hopewell Starbucks Solidarity Statement"
 permalink: /central-nj-dsa-hopewell-starbucks-solidarity-statement/
-tag: labor, starbucks, solidarity
+tag: ["labor", "starbucks", "solidarity"]
 short_description: "Central Jersey DSA sends our congratulations to the Hopewell Starbucks workers on their union election victory!"
 ---
 

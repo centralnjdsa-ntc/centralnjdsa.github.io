@@ -2,7 +2,7 @@
 layout: post 
 title: "Solidarity with Dr. Mosdell!"
 permalink: /solidarity-with-dr-mosdell/
-tag: labor, solidarity, lgbtq+
+tag: ["labor", "solidarity", "lgbtq+"]
 short_description: "Central Jersey DSA stands with Piscataway school psychologist and DSA member, Dr. Cassia Mosdell"
 ---
 
