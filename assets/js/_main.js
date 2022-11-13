@@ -8,6 +8,14 @@
  * This requires installing node.js and the npm packages first.
  */
 
+window.addEventListener( 'load', () => {
+    const options = {
+        path: '../assets/readabler',
+    };
+    const style = {};
+    const readabler = new Readabler( options, style );
+});
+
 $(document).ready(function () {
     // Sticky footer, (Borrowed from minimal mistakes theme code)
     var bumpIt = function () {

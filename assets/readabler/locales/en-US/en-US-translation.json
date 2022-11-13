@@ -1,0 +1,92 @@
+{
+  "open-accessibility-panel": "Open Accessibility Panel",
+  "close-accessibility-panel": "Close Accessibility Panel",
+
+  "popup-title": "Accessibility",
+
+  "section-accessibility-modes": "Accessibility Modes",
+
+  "profile-epilepsy-title": "Epilepsy Safe Mode",
+  "profile-epilepsy-short": "Dampens color and removes blinks",
+  "profile-epilepsy-description": "This mode enables people with epilepsy to use the website safely by eliminating the risk of seizures that result from flashing or blinking animations and risky color combinations.",
+
+  "profile-visually-impaired-title": "Visually Impaired Mode",
+  "profile-visually-impaired-short": "Improves websites visuals",
+  "profile-visually-impaired-description": "This mode adjusts the website for the convenience of users with visual impairments such as Degrading Eyesight, Tunnel Vision, Cataract, Glaucoma, and others.",
+
+  "profile-cognitive-disability-title": "Cognitive Disability Mode",
+  "profile-cognitive-disability-short": "Helps to focus on specific content",
+  "profile-cognitive-disability-description": "This mode provides different assistive options to help users with cognitive impairments such as Dyslexia, Autism, CVA, and others, to focus on the essential elements of the website more easily.",
+
+  "profile-adhd-friendly-title": "ADHD Friendly Mode",
+  "profile-adhd-friendly-short": "Reduces distractions and improve focus",
+  "profile-adhd-friendly-description": "This mode helps users with ADHD and Neurodevelopmental disorders to read, browse, and focus on the main website elements more easily while significantly reducing distractions.",
+
+  "profile-blind-users-title": "Blindness Mode",
+  "profile-blind-users-short": "Allows using the site with your screen-reader",
+  "profile-blind-users-description": "This mode configures the website to be compatible with screen-readers such as JAWS, NVDA, VoiceOver, and TalkBack. A screen-reader is software for blind users that is installed on a computer and smartphone, and websites must be compatible with it.",
+
+  "section-online-dictionary": "Online Dictionary",
+  "lear-more-wikipedia": "Learn more in Wikipedia",
+  "start-typing-wikipedia": "Start typing to search in Wikipedia",
+  "search-placeholder-wikipedia": "Search the online dictionary...",
+
+  "section-readable-experience": "Readable Experience",
+  "content-scaling": "Content Scaling",
+  "content-size": "Content Size",
+  "text-magnifier": "Text Magnifier",
+  "readable-font": "Readable Font",
+  "dyslexia-font": "Dyslexia Friendly",
+  "highlight-titles": "Highlight Titles",
+  "highlight-links": "Highlight Links",
+  "font-sizing": "Font Sizing",
+  "font-size": "Font Size",
+  "line-height": "Line Height",
+  "letter-spacing": "Letter Spacing",
+  "letter-space": "Letter Space",
+  "align-left": "Left Aligned",
+  "align-center": "Center Aligned",
+  "align-right": "Right Aligned",
+
+  "section-visually-pleasing-experience": "Visually Pleasing Experience",
+  "dark-contrast": "Dark Contrast",
+  "light-contrast": "Light Contrast",
+  "monochrome": "Monochrome",
+  "high-contrast": "High Contrast",
+  "high-saturation": "High Saturation",
+  "low-saturation": "Low Saturation",
+  "text-colors": "Adjust Text Colors",
+  "title-colors": "Adjust Title Colors",
+  "background-colors": "Adjust Background Colors",
+
+  "section-easy-orientation": "Easy Orientation",
+  "mute-sounds": "Mute Sounds",
+  "hide-images": "Hide Images",
+  "virtual-keyboard": "Virtual Keyboard",
+  "reading-guide": "Reading Guide",
+  "stop-animations": "Stop Animations",
+  "reading-mask": "Reading Mask",
+  "highlight-hover": "Highlight Hover",
+  "highlight-focus": "Highlight Focus",
+  "big-black-cursor": "Big Dark Cursor",
+  "big-white-cursor": "Big Light Cursor",
+  "keyboard-navigation": "Navigation Keys",
+  "text-to-speech": "Text to Speech",
+  "useful-links": "Link navigator",
+
+  "text-to-speech-guide": "Highlight a piece of text and click Play to listen",
+
+  "reset-button": "Reset Settings",
+  "hide-button": "Hide Forever",
+  "hide-forever-message"  : "Hide Accessibility Interface? Please note: If you choose to hide the accessibility interface, you won\"t be able to see it anymore, unless you clear clear cookies for this site. Are you sure that you wish to hide the interface?",
+
+  "accessibility-statement": "Accessibility Statement",
+
+  "home": "Home",
+  "default": "Default",
+  "increase": "Increase",
+  "decrease": "Decrease",
+  "change-color": "Change Color to",
+  "select": "Select an option"
+
+}
