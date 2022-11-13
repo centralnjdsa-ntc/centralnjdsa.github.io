@@ -2658,7 +2658,7 @@ class ActionBigBlackCursor {
                 body.mdp-readabler-big-black-cursor,
                 body.mdp-readabler-big-black-cursor * {
                     /*noinspection CssUnknownTarget*/
-                    cursor: url("${ readablerOptions.path }img/cursor/black-cursor.svg"), default !important
+                    cursor: url("${ readablerOptions.path }/img/cursor/black-cursor.svg"), default !important
                 }
                 
                 body.mdp-readabler-big-black-cursor * input, 
@@ -2668,7 +2668,7 @@ class ActionBigBlackCursor {
                 body.mdp-readabler-big-black-cursor * button, 
                 body.mdp-readabler-big-black-cursor * [role=button] {
                     /*noinspection CssUnknownTarget*/
-                    cursor: url("${ readablerOptions.path }img/cursor/black-pointer.svg"), default !important;
+                    cursor: url("${ readablerOptions.path }/img/cursor/black-pointer.svg"), default !important;
                 }
                 
             `;
@@ -2743,7 +2743,7 @@ class ActionBigWhiteCursor {
                 body.mdp-readabler-big-white-cursor,
                 body.mdp-readabler-big-white-cursor * {
                     /*noinspection CssUnknownTarget*/
-                    cursor: url("${ readablerOptions.path }img/cursor/white-cursor.svg"), default !important
+                    cursor: url("${ readablerOptions.path }/img/cursor/white-cursor.svg"), default !important
                 }
                 
                 body.mdp-readabler-big-white-cursor * input, 
@@ -2753,7 +2753,7 @@ class ActionBigWhiteCursor {
                 body.mdp-readabler-big-white-cursor * button, 
                 body.mdp-readabler-big-white-cursor * [role=button] {
                     /*noinspection CssUnknownTarget*/
-                    cursor: url("${ readablerOptions.path }img/cursor/white-pointer.svg"), default !important;
+                    cursor: url("${ readablerOptions.path }/img/cursor/white-pointer.svg"), default !important;
                 }
                 
             `;
