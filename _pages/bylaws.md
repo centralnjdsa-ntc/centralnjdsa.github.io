@@ -9,10 +9,11 @@ permalink: /bylaws/
 **AMENDED** June 20, 2020
 **AMENDED** December 19, 2020
 **AMENDED** March 10, 2021
+**AMENDED** May 30, 2023
 
 ARTICLE I. NAME 
 ---
-The name of this organization shall be Central New Jersey Democratic Socialists of America ("CNJ DSA"), a local chapter affiliate (chapter) of Democratic Socialists of America ("DSA"). The jurisdiction of CNJ DSA shall consist of the following counties: Mercer, Middlesex, Somerset, and Hunterdon. 
+The name of this organization shall be Central New Jersey Democratic Socialists of America ("CNJ DSA"), a local chapter affiliate (chapter) of Democratic Socialists of America ("DSA"). The jurisdiction of CNJ DSA shall consist of the following counties: Mercer, Middlesex, Somerset, Hunterdon, Monmouth, and Ocean.
 
 
 ARTICLE II. PURPOSE 
@@ -589,8 +590,52 @@ ARTICLE XII. AMENDMENTS TO THE BYLAWS
 ---
 These bylaws may be amended by a two-thirds vote at a regular chapter meeting. Any amendment that is introduced at a meeting must have an online poll that will be opened by the following chapter email and must remain open for one week.
 
+
+ARTICLE XIII. CHAPTER RESOLUTIONS
+---
+
+**Section 1.0 Introduction of a Resolution**
+
+Any member in good standing of the Central New Jersey chapter of the Democratic
+Socialists of America may introduce a resolution to be debated and voted on by the Chapter
+Membership. A resolution to be considered must be submitted to the Steering Committee at
+least (3) three days prior to the scheduled Chapter Meeting. The Steering Committee shall allot
+adequate time for the resolution to be read aloud in the subsequent Chapter Meeting.
+
+**Section 2.0 Debate and Discussion**
+
+During the chapter meeting following the submission of the resolution to the Steering
+Committee, the resolution shall be read aloud. The resolution should be read aloud by an author
+of the resolution or a representative designated by an author. By default, the resolution will then
+be debated during the Chapter Meeting, posted publicly, and voted on in the subsequent seven
+days following the Chapter Meeting.
+
+Once the resolution has been read, any member may make a motion to table debate and
+voting on the resolution until at least one additional discussion on the resolution can be held. If
+the motion is seconded, is voted on, and passes; the Steering Committee will schedule at least
+one (1) meeting throughout the subsequent month. Membership will be given at least seven (7)
+days notification about these meetings.
+
+The rules governing this motion shall be in accordance with the appendices of these
+bylaws.
+
+Following this chapter meeting, the resolution shall be posted on the chapter’s main
+communication platform and sent out in the next issue of the Chapter’s newsletter.
+
+Any proposed changes to the resolution must be introduced prior to the time allotted for
+debate, discussed during the time allotted for debate, or introduced at the Chapter Meeting as
+an amendment.
+
+If voting on the resolution was tabled at the Chapter Meeting where the resolution was introduced, the resolution with any changes made during the debate period will be re-read at the subsequent Chapter Meeting, after which the chapter will hold formal debate on the matter.
+
+**Section 3.0 Voting**
+
+Following the final reading at the Chapter Meeting, the resolution shall be posted and sent to the membership for voting. Voting will remain open for seven days, after which time the voting credentials of all voters shall be certified by the Membership Coordinator in accordance with Article VII, Section 6.0. A simple majority of votes by members in good standing (more
+‘yes’ votes than ‘no’ votes) shall be sufficient to pass the resolution and make it binding upon the Chapter until such time that the text of the adopted resolution terminates it, or until it is retracted, in part or in full, by a later resolution of the Chapter. In the event that there are an equal number of ‘yes’ and ‘no’ votes, the vote shall not pass, and the resolution shall not be adopted.
+
 APPENDIX 
 ---
+
 **Rules of Order** 
 
 Rules and procedure for meetings, as adapted from the rules of the Portland General Membership Branch of the IWW. 
