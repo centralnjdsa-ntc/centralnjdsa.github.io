@@ -15,6 +15,9 @@ header:
   - title: "Chapter Bylaws"
     url: "/bylaws/"
     description: "Here are the bylaws for Central Jersey DSA"
+    title: "Resolutions"
+    url: "/resolutions/"
+    description: "Passed Resolutions"
 
 # footer links
 footer:
