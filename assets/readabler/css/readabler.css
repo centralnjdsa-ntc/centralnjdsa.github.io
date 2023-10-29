@@ -26,7 +26,7 @@ html {
   --readabler-btn-radius: 50px;
   --readabler-btn-color: #F04C53;
   --readabler-btn-color-hover: rgba(33, 150, 243, 1);
-  --readabler-btn-bg: rgba(33, 150, 243, 1);
+  --readabler-btn-bg: #F04C53;
   --readabler-btn-bg-hover: #ffffff;
   --readabler-btn-size: 24px;
   --readabler-btn-delay: 0s;
