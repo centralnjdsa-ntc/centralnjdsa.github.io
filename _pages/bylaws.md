@@ -4,6 +4,8 @@ title: Chapter Bylaws
 permalink: /bylaws/
 ---
 #CENTRAL NEW JERSEY DEMOCRATIC SOCIALISTS OF AMERICA BYLAWS
+
+
 *Drafted by Mark S. Alper and Russell Weiss-Irwin, August 2016*
 **AMENDED** September 2019 
 **AMENDED** June 20, 2020
