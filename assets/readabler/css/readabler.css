@@ -24,11 +24,11 @@ html {
   --readabler-btn-margin: 10px;
   --readabler-btn-padding: 20px;
   --readabler-btn-radius: 50px;
-  --readabler-btn-color: rgba(251, 210, 212;
+  --readabler-btn-color: #ffffff;
   --readabler-btn-color-hover: rgba(33, 150, 243, 1);
-  --readabler-btn-bg: rgba(251, 210, 212);
+  --readabler-btn-bg: rgba(33, 150, 243, 1);
   --readabler-btn-bg-hover: #ffffff;
-  --readabler-btn-size: 32px;
+  --readabler-btn-size: 24px;
   --readabler-btn-delay: 0s;
   --readabler-keyboard-light-bg: #ececec;
   --readabler-keyboard-light-key-bg: #ffffff;
