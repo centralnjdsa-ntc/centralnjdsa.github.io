@@ -3,7 +3,7 @@ layout: page
 title: Chapter Bylaws
 permalink: /bylaws/
 ---
-#CENTRAL NEW JERSEY DEMOCRATIC SOCIALISTS OF AMERICA BYLAWS
+<h1>CENTRAL NEW JERSEY DEMOCRATIC SOCIALISTS OF AMERICA BYLAWS</h1>
 
 
 *Drafted by Mark S. Alper and Russell Weiss-Irwin, August 2016*
