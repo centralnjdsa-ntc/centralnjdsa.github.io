@@ -12,10 +12,28 @@ permalink: /accommodations/
 
 <!-- Text input-->
 <div class="form-group">
-  <label class="col-md-4 control-label" for="textinput">What is your name?</label>  
+  <label class="col-md-4 control-label" for="textinput">What is your name?*</label>  
   <div class="col-md-5">
-  <input id="textinput" name="textinput" type="text" placeholder="Jane Socialist" class="form-control input-md">
+  <input id="textinput" name="textinput" type="text" placeholder="Jane Socialist" class="form-control input-md" required="">
   <span class="help-block">We need your name to be able to address you properly</span>  
+  </div>
+</div>
+
+<!-- Text input-->
+<div class="form-group">
+  <label class="col-md-4 control-label" for="phone">What is your phone number?*</label>  
+  <div class="col-md-5">
+  <input id="phone" name="phone" type="text" placeholder="555-555-5555" class="form-control input-md" required="">
+    
+  </div>
+</div>
+
+<!-- Text input-->
+<div class="form-group">
+  <label class="col-md-4 control-label" for="email">What is your email?*</label>  
+  <div class="col-md-5">
+  <input id="email" name="email" type="text" placeholder="janesocialist@gmail.com" class="form-control input-md" required="">
+  <span class="help-block">This will be how we contact you?</span>  
   </div>
 </div>
 
@@ -30,7 +48,7 @@ permalink: /accommodations/
 
 <!-- Textarea -->
 <div class="form-group">
-  <label class="col-md-4 control-label" for="accomrequest">What accommodations do you need?</label>
+  <label class="col-md-4 control-label" for="accomrequest">What accommodations do you need?*</label>
   <div class="col-md-4">                     
     <textarea class="form-control" id="accomrequest" name="accomrequest">I need a screenreader and speech to text.</textarea>
   </div>
