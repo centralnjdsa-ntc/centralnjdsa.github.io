@@ -3,7 +3,7 @@ layout: page
 title: "Accommodations"
 permalink: /accommodations/
 ---
-form action="(https://nocodeform.io/f/653f0b5ff462d3212f487bef)" method="POST">
+<form action="(https://nocodeform.io/f/653f0b5ff462d3212f487bef)" method="POST">
 <form class="form-horizontal">
 <fieldset>
 
@@ -35,6 +35,8 @@ form action="(https://nocodeform.io/f/653f0b5ff462d3212f487bef)" method="POST">
     <textarea class="form-control" id="accomrequest" name="accomrequest">I need a screenreader and speech to text.</textarea>
   </div>
 </div>
+
+<div><input type="submit" value="Submit"></div>
 
 </fieldset>
 </form>
