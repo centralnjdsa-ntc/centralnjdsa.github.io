@@ -5,10 +5,8 @@ permalink: /get-involved/
 ---
 
 <details>
-	<summary><h3>>How do I get involved?</h3></summary>
-		There are many ways to get incolved with Central NJ DSA. One way is to join the national organization if you reside within Central NJ. You can join the national organization [here!](https://act.dsausa.org/donate/membership/)
-	
-		You can also join our Discord server and begin talking with your comrades. To join the Discord Server click [here!](https://discord.gg/TyqMuJxsB3)
+	<summary><h3>How do I get involved?</h3></summary>
+		There are many ways to get incolved with Central NJ DSA. One way is to join the national organization if you reside within Central NJ. You can join the national organization [here!](https://act.dsausa.org/donate/membership/) You can also join our Discord server and begin talking with your comrades. To join the Discord Server click [here!](https://discord.gg/TyqMuJxsB3)
 	
 </details>
 
