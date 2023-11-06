@@ -16,6 +16,11 @@ permalink: /get-involved/
 		We have a wide variety of different events we host for members and also anyone of the public. To view our events head to our <link rel="calendar" href="/calendar/" type="" />
 </details>
 
+<details>
+	<summary>What can I expect when I join a committee?</summary>
+	If you join a committee or working group you can begin working with like minded people on a topic you feel passioante about. 
+</details>
+
 <h1>Queer Socialists</h1>
 <img src="/assets/images/queer-socialist-banner-min.png" />
 <p>Join us as we meet with each other and work on Queer Socialists Actions. In this meeting, we will discuss forming a social media strategy, finalizing our action plan, and begin planning an event. Please sign up and join the chapter's Discord to start working before the meeting.</p>
