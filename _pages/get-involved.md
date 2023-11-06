@@ -5,20 +5,21 @@ permalink: /get-involved/
 ---
 
 <details>
-	<summary><h2>>How do I get involved?</h2></summary>
-	There are many ways to get incolved with Central NJ DSA. One way is to join the national organization if you reside within Central NJ. You can join the national organization <link rel="Here" href="https://act.dsausa.org/donate/membership/" type="" />.
+	<summary><h3>>How do I get involved?</h3></summary>
+		There are many ways to get incolved with Central NJ DSA. One way is to join the national organization if you reside within Central NJ. You can join the national organization [here!](https://act.dsausa.org/donate/membership/)
 	
-	<br /> You can also join our Discord server and begin talking with your comrades. To join the Discord Server <link rel="Click Here" href="https://discord.gg/TyqMuJxsB3" type="" />
+		You can also join our Discord server and begin talking with your comrades. To join the Discord Server click [here!](https://discord.gg/TyqMuJxsB3)
+	
 </details>
 
 <details>
-	<summary><h2>Do you have events?</h2>/summary>
-		We have a wide variety of different events we host for members and also anyone of the public. To view our events head to our <link rel="calendar" href="/calendar/" type="" />
+	<summary><h3>Do you have events?</h3></summary>
+		We have a wide variety of different events we host for members and also anyone of the public. To view our events head to our [calendar](/calendar)
 </details>
 
 <details>
-	<summary><h2>What can I expect when I join a committee?</h2></summary>
-	If you join a committee or working group you can begin working with like minded people on a topic you feel passioante about. 
+	<summary><h3>What can I expect when I join a committee?</h3></summary>
+		If you join a committee or working group you can begin working with like minded people on a topic you feel passioante about. 
 </details>
 
 <h1>Queer Socialists</h1>
